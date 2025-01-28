@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avocadowala.github.io/static/css/main.88150a1f.css",
+    "main.js": "/avocadowala.github.io/static/js/main.41b89634.js",
+    "static/js/488.3210b271.chunk.js": "/avocadowala.github.io/static/js/488.3210b271.chunk.js",
+    "index.html": "/avocadowala.github.io/index.html",
+    "main.88150a1f.css.map": "/avocadowala.github.io/static/css/main.88150a1f.css.map",
+    "main.41b89634.js.map": "/avocadowala.github.io/static/js/main.41b89634.js.map",
+    "488.3210b271.chunk.js.map": "/avocadowala.github.io/static/js/488.3210b271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88150a1f.css",
+    "static/js/main.41b89634.js"
+  ]
+}
