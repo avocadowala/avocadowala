@@ -1,0 +1,36 @@
+.gallery {
+    padding: 50px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .gallery h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .gallery-item {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .gallery-item h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
