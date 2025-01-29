@@ -2,10 +2,10 @@ import React from 'react';
 import './Gallery.css';  // Add styles for the gallery
 
 const foods = [
-  { id: 1, src: '/assets/avo1.jpg', alt: 'Pizza' },
-  { id: 2, src: '/assets/avo2.jpg', alt: 'Burger' },
-  { id: 3, src: '/assets/avo3.jpg', alt: 'Pasta' },
-  { id: 4, src: '/assets/avo4.jpg', alt: 'Sushi' },
+  { id: 1, src: './assets/avo1.jpg', alt: 'Avocado Toast' },
+  { id: 2, src: './assets/avo2.jpg', alt: 'Avocado Tomato Salad' },
+  { id: 3, src: './assets/avo3.jpg', alt: 'Avocado Sandwiches' },
+  { id: 4, src: './assets/avo4.jpg', alt: 'Avocado Guacamole' },
 ];
 
 function Gallery() {
