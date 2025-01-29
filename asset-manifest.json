@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.88150a1f.css",
-    "main.js": "/static/js/main.a5ac05bc.js",
-    "static/js/488.3210b271.chunk.js": "/static/js/488.3210b271.chunk.js",
-    "index.html": "/index.html",
-    "main.88150a1f.css.map": "/static/css/main.88150a1f.css.map",
-    "main.a5ac05bc.js.map": "/static/js/main.a5ac05bc.js.map",
-    "488.3210b271.chunk.js.map": "/static/js/488.3210b271.chunk.js.map"
+    "main.css": "/avocadowala/static/css/main.88150a1f.css",
+    "main.js": "/avocadowala/static/js/main.96154225.js",
+    "static/js/488.3210b271.chunk.js": "/avocadowala/static/js/488.3210b271.chunk.js",
+    "index.html": "/avocadowala/index.html",
+    "main.88150a1f.css.map": "/avocadowala/static/css/main.88150a1f.css.map",
+    "main.96154225.js.map": "/avocadowala/static/js/main.96154225.js.map",
+    "488.3210b271.chunk.js.map": "/avocadowala/static/js/488.3210b271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88150a1f.css",
-    "static/js/main.a5ac05bc.js"
+    "static/js/main.96154225.js"
   ]
 }
