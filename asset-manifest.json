@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avocadowala/static/css/main.88150a1f.css",
-    "main.js": "/avocadowala/static/js/main.96154225.js",
-    "static/js/488.3210b271.chunk.js": "/avocadowala/static/js/488.3210b271.chunk.js",
+    "main.css": "/avocadowala/static/css/main.ca92dd88.css",
+    "main.js": "/avocadowala/static/js/main.f49d144e.js",
+    "static/js/488.c2cdef31.chunk.js": "/avocadowala/static/js/488.c2cdef31.chunk.js",
     "index.html": "/avocadowala/index.html",
-    "main.88150a1f.css.map": "/avocadowala/static/css/main.88150a1f.css.map",
-    "main.96154225.js.map": "/avocadowala/static/js/main.96154225.js.map",
-    "488.3210b271.chunk.js.map": "/avocadowala/static/js/488.3210b271.chunk.js.map"
+    "main.ca92dd88.css.map": "/avocadowala/static/css/main.ca92dd88.css.map",
+    "main.f49d144e.js.map": "/avocadowala/static/js/main.f49d144e.js.map",
+    "488.c2cdef31.chunk.js.map": "/avocadowala/static/js/488.c2cdef31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88150a1f.css",
-    "static/js/main.96154225.js"
+    "static/css/main.ca92dd88.css",
+    "static/js/main.f49d144e.js"
   ]
 }
