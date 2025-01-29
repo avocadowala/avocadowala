@@ -4,7 +4,7 @@ import './Header.css';  // You can create a CSS file to style your header
 function Header() {
   return (
     <header className="header">
-      <img src="./public/assets/Avo_logo.svg" alt="Food Gallery Logo" className="logo" />
+      <img src="./assets/Avo_logo.svg" alt="Food Gallery Logo" className="logo" />
       <nav>
         <ul>
           <li><a href="#gallery">Gallery</a></li>
