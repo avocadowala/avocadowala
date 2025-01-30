@@ -11,10 +11,9 @@ const foods = [
 function Gallery() {
   return (
     <section id="gallery" className="gallery">
-      <h2>Avocado Wala</h2>
-      <h3>At Avocado Wala, we believe that avocados aren’t just a food—they’re a lifestyle. Whether you're a lifelong fan or a newcomer to the creamy, nutrient-packed goodness, our menu is crafted to showcase the versatile superfood in all its glory. From fresh guacamole and delicious avocado toasts to bold, innovative dishes that put a modern spin on classic flavors, we’re here to make every bite an adventure.
+      <p>At Avocado Wala, we believe that avocados aren’t just a food—they’re a lifestyle. Whether you're a lifelong fan or a newcomer to the creamy, nutrient-packed goodness, our menu is crafted to showcase the versatile superfood in all its glory. From fresh guacamole and delicious avocado toasts to bold, innovative dishes that put a modern spin on classic flavors, we’re here to make every bite an adventure.
 Our passion for fresh, sustainable ingredients drives us to provide the highest quality meals, made from locally sourced produce and crafted with love. Whether you’re in the mood for a light snack, a hearty lunch, or a flavorful dinner, there’s something on our menu that will satisfy your cravings.
-Join us for a truly unique dining experience where vibrant flavors meet wholesome goodness. Celebrate the beauty of the avocado with us today!</h3>
+Join us for a truly unique dining experience where vibrant flavors meet wholesome goodness. Celebrate the beauty of the avocado with us today!</p>
       <div className="gallery-container">
         {foods.map(food => (
           <div key={food.id} className="gallery-item">
